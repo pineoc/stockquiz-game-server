@@ -1,0 +1,29 @@
+{
+    "noticeVer":1,
+    "noticeArr": [
+        {
+            "idx": 1,
+            "day": "2014-11-06",
+            "head": "this is test notice1",
+            "body": "body 1asda sd asd asd asd asd asd asd asd asd asd asd asd asd asd asd asd asd asd asd asd asd asd asd asd asd asd asd asd asd asd asd asd asd asd asd asd asd asd "
+        },
+        {
+            "idx": 2,
+            "day": "2014-11-07",
+            "head": "this is test notice2",
+            "body": "body 2"
+        },
+        {
+            "idx": 3,
+            "day": "2014-11-11",
+            "head": "this is test notice3",
+            "body": "body 3"
+        },
+        {
+            "idx": 4,
+            "day": "2015-02-23",
+            "head": "새 공지 입니다.",
+            "body": "공지공지"
+        }
+    ]
+}
